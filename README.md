@@ -1,2 +1,3 @@
-# cpp-debug
-Build/Run/Debug C++ File with Codespaces
+# C++ STL Algorithm Examples
+
+For demonstrating STL algorithms.
